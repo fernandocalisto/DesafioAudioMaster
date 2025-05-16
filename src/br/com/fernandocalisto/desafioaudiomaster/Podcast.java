@@ -1,6 +1,6 @@
 package br.com.fernandocalisto.desafioaudiomaster;
 
-public class Podcast extends Audio{
+public class Podcast extends Audio {
     private String categoria;
     private String convidado;
 
